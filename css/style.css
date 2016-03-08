@@ -8,7 +8,7 @@ body, html{
 	overflow: hidden;
 	text-align: center;
 	color: white;
-	background-image: url('../images/home.jpg');
+	background-image: url('https://raw.githubusercontent.com/Fato-Online/24Fase-lava-jato/master/images/home.jpg');
 	background-position: 50% 50%;
 	background-size: cover;
 	background-repeat: no-repeat;
